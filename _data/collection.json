@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sonnet 145" ] },
+    "summary": { "en": [ "This is an analysis of Shakespeare&#39;s Sonnet 145, perhaps the first writing from his pen to survive." ] },
+    "items": [
+    ]
+}
